@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<categories>
+	<category name="Справка">
+		<document name="2 НДФЛ" info="1 2 3 4 5" email="victoria_62@list.ru"></document>
+		<document name="В соц. службы" info="1 2 3" email="victoria_62@list.ru"></document>
+		<document name="На визу" info="1 2 3" email="p.mariya0291@gmail.com"></document>
+		<document name="О работе в ОО" info="1 2 3 4 5" email="p.mariya0291@gmail.com"></document>
+		<document name="В ПФР по выслуге лет" info="1 2" email="p.mariya0291@gmail.com"></document>
+	</category>
+	<category name="Копия ТК/Форма СТД-Р">
+		<document name="Заверенная копия ТК" info="1 2 3 5" email="p.mariya0291@gmail.com"></document>
+		<document name="Форма СТД-Р (если ЭТК)" info="1 2 3 5" email="victoria_62@list.ru"></document>
+	</category>
+	<category name="Выписка из ТК">
+		<document name="По форме" info="1 2 3 5" email="p.mariya0291@gmail.com"></document>
+	</category>
+	<category name="Расчётный листок по З/П">
+		<document name="Расчётный листок" info="1 2" email="victoria_62@list.ru"></document>
+		<document name="Расшифровка З/П" info="1 2" email="verochka82@gmail.com"></document>
+	</category>
+</categories>
